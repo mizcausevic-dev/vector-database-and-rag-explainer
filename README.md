@@ -4,6 +4,8 @@
 
 Live plate: https://mizcausevic-dev.github.io/vector-database-and-rag-explainer/
 
+Repository: https://github.com/mizcausevic-dev/vector-database-and-rag-explainer
+
 ## What this is
 
 An interactive anatomy plate for Vector Database & RAG. Play, scrub, or jump the five stages. The same frame always draws the same picture.
