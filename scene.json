@@ -11,8 +11,8 @@
       "glyph": "doc",
       "label": "Text query",
       "role": "path",
-      "x": 0.5,
-      "y": 0.14
+      "x": 0.14,
+      "y": 0.32
     },
     {
       "id": "n2",
@@ -20,23 +20,23 @@
       "label": "Projected HNSW graph",
       "role": "path",
       "x": 0.5,
-      "y": 0.284
+      "y": 0.32
     },
     {
       "id": "n3",
       "glyph": "plate",
       "label": "Sparse upper to denser lower layers",
       "role": "structure",
-      "x": 0.5,
-      "y": 0.428
+      "x": 0.86,
+      "y": 0.32
     },
     {
       "id": "n4",
       "glyph": "doc",
       "label": "Chunks",
       "role": "path",
-      "x": 0.5,
-      "y": 0.572
+      "x": 0.14,
+      "y": 0.7
     },
     {
       "id": "n5",
@@ -44,15 +44,15 @@
       "label": "Optionally rerank",
       "role": "path",
       "x": 0.5,
-      "y": 0.716
+      "y": 0.7
     },
     {
       "id": "n6",
       "glyph": "prompt",
       "label": "Augmented prompt",
       "role": "path",
-      "x": 0.5,
-      "y": 0.86
+      "x": 0.86,
+      "y": 0.7
     }
   ],
   "edges": [
